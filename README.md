@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenPfeffer-bot
 - 👀 I’m interested in Market finance, statitstics, machine learning, AI
-- 🌱 I’m currently learning Python, Rust, Javascript
+- 🌱 I’m currently learning Python, Rust, R, Javascript
 - 💞️ I’m looking to collaborate on ML & RL projects
 - 📫 How to reach me: by email @ benpfefferpro@gmail.com
 
