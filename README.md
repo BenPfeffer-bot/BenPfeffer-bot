@@ -15,6 +15,20 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BenPfeffer-bot)
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+
+## What I learn
+
+<div align="center">
+
+<!-- ── Programming Languages ── -->
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge&logoColor=white)   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)   ![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-FF6600?style=for-the-badge&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)   ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)   
+
+</div>
+
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
@@ -44,21 +58,6 @@ class BenPfeffer:
     def looking_for(self):
         return "End-of-studies internship in Trading / Sales in rates or in fixed income"
 ```
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
-
-## What I learn
-
-<div align="center">
-
-<!-- ── Programming Languages ── -->
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge&logoColor=white)   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)   ![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-FF6600?style=for-the-badge&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)   ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)   
-
-</div>
-
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
