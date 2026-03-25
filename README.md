@@ -28,7 +28,7 @@ class BenPfeffer:
         self.role       = "MIM Finance Student"
         self.school     = "ESCP Business School — Master Grande École"
         self.major      = "Market Finance (Finance de Marché)"
-        self.company    = "Co-Founder @ Warburg.AI"
+        self.company    = "CACIB / Icona Capital / CenturaFX / WarburgAI"
         self.thesis     = "Deep Reinforcement Learning in High-Frequency Trading"
         self.location   = "Paris, France"
         self.languages  = ["French (native)", "English (fluent)", "Spanish (B1)", "Italian (A2)"]
