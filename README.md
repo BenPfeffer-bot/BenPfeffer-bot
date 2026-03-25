@@ -17,8 +17,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
-## What I learn
-
 <div align="center">
 
 <!-- ── Programming Languages ── -->
