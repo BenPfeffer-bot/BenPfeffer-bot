@@ -62,89 +62,88 @@ class BenPfeffer:
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
-## 🚀 Featured Projects
-
+## My main projects
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🧠 [Warburg.AI](https://github.com/benpfeffer/warburg-ai)
-**Quantitative Trading Engine powered by Deep RL**
-
-Autonomous trading system that uses PPO and DRQN algorithms on Level-2 order book data for high-frequency alpha generation — from data pipeline to live execution.
-
-`Python` `PyTorch` `Stable-Baselines3` `Order Book` `HFT`
-
-<img src="https://img.shields.io/badge/Status-Active_Development-00d4ff?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Startup-8b5cf6?style=flat-square"/>
-
+ 
+### [Volatility Clustering RL Execution](https://github.com/BenPfeffer-bot/volatility-clustering-rl-execution)
+**Reinforcement Learning for optimal trade execution**
+ 
+RL-driven execution engine that detects volatility clustering regimes and adapts order placement strategies in real-time. Combines GARCH-based regime detection with deep RL agents for intelligent execution under varying market microstructure conditions.
+ 
+`Python` `PyTorch` `Reinforcement Learning` `GARCH` `Execution`
+ 
+<img src="https://img.shields.io/badge/Status-Active_Development-00d4ff?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Quant_Research-8b5cf6?style=flat-square"/>
+ 
 </td>
 <td width="50%" valign="top">
-
-### 📊 [OAT-Bund Spread Analysis](https://github.com/benpfeffer/oat-bund-spread)
-**Econometric modelling with alternative data**
-
-GARCH/EGARCH analysis of sovereign spread dynamics using Google Trends as a real-time proxy for political risk. Regime-switching detection and volatility clustering.
-
-`Python` `R` `GARCH` `Google Trends` `Econometrics`
-
-<img src="https://img.shields.io/badge/Status-Completed-10b981?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Research-f59e0b?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 [Hedge Fund Replicator](https://github.com/benpfeffer/hedge-fund-clone)
-**Factor-based fund return cloning**
-
-Replication of Aberdeen fund performance via multi-factor regression, ANOVA diagnostics, residual analysis (statsmodels), and feature engineering for systematic portfolio construction.
-
-`Python` `statsmodels` `Regression` `Factor Models` `SQL`
-
-<img src="https://img.shields.io/badge/Status-Completed-10b981?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Academic-f59e0b?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [DRL in HFT — Thesis](https://github.com/benpfeffer/drl-hft-thesis)
-**Master thesis research codebase**
-
-Benchmarking Deep Reinforcement Learning architectures (PPO vs DRQN) for high-frequency market making on LOB microstructure data. Includes MiFID II compliance framework.
-
-`Python` `PyTorch` `Deep RL` `LOB Data` `MiFID II`
-
-<img src="https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Thesis-f43f5e?style=flat-square"/>
-
+ 
+###  [Regime-Based Quantitative Approach](https://github.com/BenPfeffer-bot/Regime_Based_Quantitative_Approach)
+**Regime-switching models for systematic trading**
+ 
+Systematic trading framework that identifies market regimes (trending, mean-reverting, volatile) using hidden Markov models and adapts portfolio allocation and signal generation dynamically across asset classes.
+ 
+`Python` `HMM` `Regime Detection` `Systematic Trading` `Portfolio`
+ 
+<img src="https://img.shields.io/badge/Status-Active-10b981?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Strategy-f59e0b?style=flat-square"/>
+ 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 💹 [Options Strategy Visualiser](https://github.com/benpfeffer/options-visualiser)
-**Interactive P&L payoff diagrams**
-
-Web-based tool for building and visualizing multi-leg options strategies — straddles, strangles, tunnels, covered calls — with real-time Greeks computation and interactive Chart.js payoff curves.
-
-`JavaScript` `Chart.js` `HTML/CSS` `Options Pricing`
-
+ 
+### [Multi-Factor Volatility-Driven Liquidity Arbitrage](https://github.com/BenPfeffer-bot/multi-factor-volatility-driven-liquidity-arbitrage)
+**Cross-asset liquidity premium extraction**
+ 
+Multi-factor model exploiting volatility-driven dislocations in liquidity across markets. Combines implied/realized vol spreads, order flow imbalance, and cross-asset correlations to identify and harvest liquidity arbitrage opportunities.
+ 
+`Jupyter Notebook` `Factor Models` `Volatility` `Arbitrage` `Liquidity`
+ 
+<img src="https://img.shields.io/badge/Status-Active-10b981?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Research-f59e0b?style=flat-square"/>
+ 
+</td>
+<td width="50%" valign="top">
+ 
+### 🔬 [Experiment Strategies](https://github.com/BenPfeffer-bot/experiment-strategies)
+**Quantitative strategy backtesting lab**
+ 
+Experimental sandbox for prototyping, testing, and comparing quantitative trading strategies — from momentum and mean-reversion to machine-learning-based signals. Includes performance analytics, risk metrics, and walk-forward optimization.
+ 
+`Python` `Backtesting` `Strategy Design` `Risk Analytics`
+ 
+<img src="https://img.shields.io/badge/Status-Active-10b981?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Lab-3b82f6?style=flat-square"/>
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+ 
+###  [Finance Tools](https://github.com/BenPfeffer-bot/finance-tools)
+**Comprehensive financial analysis toolkit**
+ 
+Full-stack financial analysis tool performing both technical and fundamental analysis of major companies. Interactive dashboards, automated screening, valuation models, and charting for data-driven investment decisions.
+ 
+`Jupyter Notebook` `Technical Analysis` `Fundamental Analysis` `Dashboards`
+ 
 <img src="https://img.shields.io/badge/Status-Completed-10b981?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Tool-3b82f6?style=flat-square"/>
-
+ 
 </td>
 <td width="50%" valign="top">
-
-### 📐 [Fixed Income Toolkit](https://github.com/benpfeffer/fixed-income-toolkit)
-**Derivatives pricing & analytics**
-
-Pricing library for swaptions, caplets, CMS instruments, LIBOR-in-arrears adjustments, and convexity corrections. Built during FC01 coursework (Prof. Kahalé).
-
-`Python` `QuantLib` `Black-76` `Numéraire Change`
-
-<img src="https://img.shields.io/badge/Status-Completed-10b981?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Academic-f59e0b?style=flat-square"/>
-
+ 
+### [DRL in HFT — Master Thesis](https://github.com/BenPfeffer-bot)
+**Deep Reinforcement Learning for High-Frequency Trading**
+ 
+Master thesis codebase benchmarking PPO vs DRQN architectures for high-frequency market making on limit order book (LOB) microstructure data. Includes MiFID II regulatory compliance framework and sim-to-real transfer experiments.
+ 
+`Python` `PyTorch` `Deep RL` `LOB Data` `MiFID II`
+ 
+<img src="https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Thesis-f43f5e?style=flat-square"/>
+ 
 </td>
 </tr>
 </table>
-
 <br/>
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
@@ -155,7 +154,7 @@ Pricing library for swaptions, caplets, CMS instruments, LIBOR-in-arrears adjust
 
 ```mermaid
 mindmap
-  root((Quant Finance × AI))
+  root((Finance × AI))
     Deep Reinforcement Learning
       PPO for Market Making
       DRQN on LOB Data
