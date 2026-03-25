@@ -146,67 +146,6 @@ Pricing library for swaptions, caplets, CMS instruments, LIBOR-in-arrears adjust
 </table>
 
 <br/>
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=benpfeffer&show_icons=true&theme=github_dark&bg_color=0a0a0f&border_color=1e1e2e&icon_color=00d4ff&title_color=00d4ff&text_color=8888a0&ring_color=8b5cf6&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benpfeffer&layout=compact&theme=github_dark&bg_color=0a0a0f&border_color=1e1e2e&title_color=00d4ff&text_color=8888a0&hide_border=false&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=benpfeffer&theme=github-dark-blue&background=0A0A0F&border=1E1E2E&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=8888A0&dates=55556A&currStreakNum=E8E8EF&sideNums=E8E8EF" alt="GitHub Streak" width="520"/>
-</div>
-
-<br/>
-
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benpfeffer&bg_color=0a0a0f&color=00d4ff&line=8b5cf6&point=00d4ff&area=true&area_color=8b5cf6&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
-
-## 🎓 Experience & Education
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  💼  PROFESSIONAL EXPERIENCE                                        │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  🏛️  Crédit Agricole CIB — Trading Floor Analyst                    │
-│     SSA / EGB / Inflation Desk                                      │
-│     → Sovereign bond trading, auction analysis, relative value      │
-│     → Bloomberg workflow, pricing models, risk monitoring            │
-│                                                                     │
-│  🏦  Family Office — Investment Analyst (London)                    │
-│     → Portfolio analytics, asset allocation, client reporting       │
-│                                                                     │
-│  🤖  Warburg.AI — Co-Founder & Quant Developer                     │
-│     → DRL-based trading engine, full-stack infrastructure           │
-│                                                                     │
-├─────────────────────────────────────────────────────────────────────┤
-│  🎓  EDUCATION                                                      │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  🏫  ESCP Business School — Master Grande École                     │
-│     Specialisation: Finance de Marché (Market Finance)              │
-│     Thesis: Deep Reinforcement Learning in HFT                      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
