@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Experience in Broker/Banks/Family Office in rates/fx-00d4ff?style=for-the-badge&labelColor=111118" />
 
   <!-- Social links -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/benpfeffer)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ben.pfeffer@edu.escp.eu)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/benpfeffer)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-pfeffer/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:benpfefferpro@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BenPfeffer-bot)
 </div>
 
 <!-- Divider -->
