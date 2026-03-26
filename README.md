@@ -8,6 +8,7 @@
   &nbsp;
   <br/>
   <img src="https://img.shields.io/badge/Experience in Broker/Banks/Family Office in rates/fx-00d4ff?style=for-the-badge&labelColor=111118" />
+<br/>
 
   <!-- Social links -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-pfeffer/)
@@ -142,41 +143,7 @@ Master thesis codebase benchmarking PPO vs DRQN architectures for high-frequency
 </tr>
 </table>
 <br/>
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
-## 🧭 Research Interests
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Finance × AI))
-    Deep Reinforcement Learning
-      PPO for Market Making
-      DRQN on LOB Data
-      Reward Shaping
-      Sim-to-Real Transfer
-    Market Microstructure
-      Order Book Dynamics
-      High-Frequency Trading
-      Latency Arbitrage
-      MiFID II Compliance
-    Econometrics
-      GARCH / EGARCH
-      Regime-Switching Models
-      Alternative Data
-      Political Risk Proxies
-    Portfolio Construction
-      Factor Models
-      Risk Parity
-      Fund Replication
-      Systematic Strategies
-```
-
-</div>
-
-<br/>
 
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
